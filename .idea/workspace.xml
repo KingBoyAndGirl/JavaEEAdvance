@@ -7,49 +7,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49ed02a7-428c-4e24-8282-2c3734c184a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/util/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/UserListServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/dbconfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/WEB-INF/lib/commons-beanutils-1.9.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/WEB-INF/lib/commons-collections-3.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/WEB-INF/lib/druid-1.1.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/WEB-INF/lib/spring-beans-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/WEB-INF/lib/spring-core-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/WEB-INF/lib/spring-jdbc-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/WEB-INF/lib/spring-tx-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/js/jquery-2.1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/list.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/web/update.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/com/king/domain/PageBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/AddUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/CheckCodeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/DelSelectedServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/DelUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/FindUserByPageServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/FindUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/UpdateUserServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/List.iml" beforeDir="false" afterPath="$PROJECT_DIR$/List/List.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/king/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/king/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/king/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/king/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/king/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/king/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/king/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/king/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/src/com/king/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/king/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/web/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/List/web/add.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/List/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/List/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/web/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/List/web/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/web/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/List/web/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/web/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/List/web/update.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +62,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/List/web/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/List/web" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -94,11 +72,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Project\JavaEEAdvance\List\web\WEB-INF\lib" />
       <recent name="D:\Project\JavaEEAdvance\List\web" />
+      <recent name="D:\Project\JavaEEAdvance\List\src\com\king\web\servlet" />
+      <recent name="D:\Project\JavaEEAdvance\List\web\WEB-INF\lib" />
       <recent name="D:\Project\JavaEEAdvance\List\web\WEB-INF" />
       <recent name="D:\Project\JavaEEAdvance\List\src\com\king\util" />
-      <recent name="D:\Project\JavaEEAdvance\List\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -118,6 +96,8 @@
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8010/List/" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
         <artifact name="List:war exploded">
           <settings>
@@ -200,8 +180,17 @@
       <option name="presentableId" value="Default" />
       <updated>1564819879899</updated>
       <workItem from="1564819881386" duration="933000" />
-      <workItem from="1564820901244" duration="1589000" />
+      <workItem from="1564820901244" duration="9397000" />
+      <workItem from="1564836325890" duration="9467000" />
     </task>
+    <task id="LOCAL-00001" summary="列表查询1.0">
+      <created>1564822763610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564822763610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,5 +208,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="列表查询1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="列表查询1.0" />
   </component>
 </project>
