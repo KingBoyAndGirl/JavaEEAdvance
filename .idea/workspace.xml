@@ -7,33 +7,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49ed02a7-428c-4e24-8282-2c3734c184a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/domain/PageBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/AddUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/CheckCodeServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/DelSelectedServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/DelUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/FindUserByPageServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/FindUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/UpdateUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/filterAndlistener_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/filter/LoginFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/filter/SensitiveWordsFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/TestServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/src/敏感词汇.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filterAndListener/filterAndListener.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filterAndListener/src/com/king/web/FilterDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filterAndListener/src/com/king/web/FilterDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filterAndListener/src/com/king/web/FilterDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filterAndListener/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filterAndListener/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/src/com/king/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/king/dao/UserDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/List/src/com/king/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/king/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/src/com/king/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/king/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/src/com/king/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/king/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/src/com/king/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/king/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/web/add.html" beforeDir="false" afterPath="$PROJECT_DIR$/List/web/add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/List/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/web/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/List/web/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/web/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/List/web/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/web/update.html" beforeDir="false" afterPath="$PROJECT_DIR$/List/web/update.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="KingMo" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="KingMo" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="KingMo" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybase: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="KingMo" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybase: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,25 +92,27 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/List/web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/List/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\JavaEEAdvance\List\src" />
       <recent name="D:\Project\JavaEEAdvance\List\web" />
       <recent name="D:\Project\JavaEEAdvance\List\src\com\king\web\servlet" />
       <recent name="D:\Project\JavaEEAdvance\List\web\WEB-INF\lib" />
       <recent name="D:\Project\JavaEEAdvance\List\web\WEB-INF" />
-      <recent name="D:\Project\JavaEEAdvance\List\src\com\king\util" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -96,8 +132,6 @@
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8010/List/" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
-      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
       <deployment>
         <artifact name="List:war exploded">
           <settings>
@@ -106,7 +140,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_20_JavaEEAdvance" />
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_20_JavaEEAdvance_2" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -114,7 +148,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="7133" />
+        <option name="DEBUG_PORT" value="1133" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -169,6 +203,21 @@
       </method>
     </configuration>
   </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@7ca4aba" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -181,7 +230,8 @@
       <updated>1564819879899</updated>
       <workItem from="1564819881386" duration="933000" />
       <workItem from="1564820901244" duration="9397000" />
-      <workItem from="1564836325890" duration="9467000" />
+      <workItem from="1564836325890" duration="9685000" />
+      <workItem from="1564884747249" duration="15411000" />
     </task>
     <task id="LOCAL-00001" summary="列表查询1.0">
       <created>1564822763610</created>
@@ -190,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564822763610</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="综合案例1.0">
+      <created>1564846001521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1564846001521</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,7 +267,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="列表查询1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="列表查询1.0" />
+    <MESSAGE value="综合案例1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="综合案例1.0" />
   </component>
 </project>
