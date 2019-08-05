@@ -6,25 +6,49 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49ed02a7-428c-4e24-8282-2c3734c184a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/filterAndlistener_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/filter/LoginFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/filter/SensitiveWordsFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/com/king/web/servlet/TestServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/src/敏感词汇.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filterAndListener/filterAndListener.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filterAndListener/src/com/king/web/FilterDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filterAndListener/src/com/king/web/FilterDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filterAndListener/src/com/king/web/FilterDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filterAndListener/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filterAndListener/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="49ed02a7-428c-4e24-8282-2c3734c184a7" name="Default Changelist" comment="JQuery学习">
+      <change afterPath="$PROJECT_DIR$/JQuery基础/JQuery基础.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/01.隔行换色/01.隔行换色.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/02.全选和全不选/全选和全不选.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/QQ表情选择.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/01.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/02.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/03.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/04.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/05.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/06.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/07.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/08.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/09.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/04.多选下拉列表左右移动/左右移动.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/01-jquery动画/01-显示隐藏动画.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/02-jquery遍历/01-遍历.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/03-jquery事件绑定与解绑/01-绑定事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/03-jquery事件绑定与解绑/02-on绑定事件.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/03-jquery事件绑定与解绑/03-事件切换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/04-jQuery综合案例/广告的自动显示与隐藏.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/04-jQuery综合案例/抽奖.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/05-jQuery的插件/01-jQuery对象进行方法扩展.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/05-jQuery的插件/02-jQuery全局进行方法扩展.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/JQuery高级.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/img/adv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man00.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JQuery高级/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/filterAndlistener_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/src/com/king/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/src/com/king/dao/impl/UserDaoImpl.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,11 +118,15 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="javaeeadvance" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/List/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JQuery高级" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -108,11 +136,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\JavaEEAdvance\JQuery高级" />
+      <recent name="D:\Project\JavaEEAdvance\JQuery高级\js" />
+      <recent name="D:\Project\JavaEEAdvance\JQuery基础" />
+      <recent name="D:\Project\JavaEEAdvance\JQuery基础\js" />
       <recent name="D:\Project\JavaEEAdvance\List\src" />
-      <recent name="D:\Project\JavaEEAdvance\List\web" />
-      <recent name="D:\Project\JavaEEAdvance\List\src\com\king\web\servlet" />
-      <recent name="D:\Project\JavaEEAdvance\List\web\WEB-INF\lib" />
-      <recent name="D:\Project\JavaEEAdvance\List\web\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -129,77 +157,15 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.20" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8010/List/" />
-      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
-      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
-      <deployment>
-        <artifact name="List:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/List" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_20_JavaEEAdvance_2" />
-      </server-settings>
+      <deployment />
+      <server-settings />
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="1133" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="List:war exploded" />
-        </option>
       </method>
     </configuration>
   </component>
@@ -231,7 +197,11 @@
       <workItem from="1564819881386" duration="933000" />
       <workItem from="1564820901244" duration="9397000" />
       <workItem from="1564836325890" duration="9685000" />
-      <workItem from="1564884747249" duration="15411000" />
+      <workItem from="1564884747249" duration="16718000" />
+      <workItem from="1564920744011" duration="3336000" />
+      <workItem from="1564969499609" duration="8123000" />
+      <workItem from="1564986656346" duration="790000" />
+      <workItem from="1564997487918" duration="6755000" />
     </task>
     <task id="LOCAL-00001" summary="列表查询1.0">
       <created>1564822763610</created>
@@ -247,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564846001521</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="综合案例1.1（增加Filter敏感过滤功能）">
+      <created>1564910789941</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564910789941</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,6 +247,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="列表查询1.0" />
     <MESSAGE value="综合案例1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="综合案例1.0" />
+    <MESSAGE value="综合案例1.1（增加Filter敏感过滤功能）" />
+    <MESSAGE value="JQuery" />
+    <MESSAGE value="JQuery学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="JQuery学习" />
   </component>
 </project>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../js/jquery-3.4.1.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+
+        $(function () {
+            //1.获取所有的ul下的li
+            var citys = $("#city li");
+
+            //2.遍历li
+            for (var i = 0; i < citys.length; i++) {
+                //获取内容
+                alert(citys[i].innerHTML)
+            }
+
+            //2.jq对象.each(callback)
+            citys.each(function () {
+                //3.1获取li对象 第一种方式 this
+                this.innerHTML;
+
+                //3.2获取li对象  第二种方式 在回调函数中定义参数 index(索引) element（元素对象）
+            })
+
+        })
+    </script>
+</head>
+<body>
+<ul id="city">
+    <li>北京</li>
+    <li>上海</li>
+    <li>天津</li>
+    <li>重庆</li>
+</ul>
+</body>
+</html>
