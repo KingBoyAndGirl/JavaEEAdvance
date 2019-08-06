@@ -2,51 +2,29 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="List:war exploded" />
+      <artifact name="AJax&amp;Json:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49ed02a7-428c-4e24-8282-2c3734c184a7" name="Default Changelist" comment="JQuery学习">
-      <change afterPath="$PROJECT_DIR$/JQuery基础/JQuery基础.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/01.隔行换色/01.隔行换色.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/02.全选和全不选/全选和全不选.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/QQ表情选择.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/01.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/02.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/03.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/04.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/05.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/06.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/07.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/08.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/09.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/03.QQ表情选择/img/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery基础/案例/04.多选下拉列表左右移动/左右移动.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/01-jquery动画/01-显示隐藏动画.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/02-jquery遍历/01-遍历.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/03-jquery事件绑定与解绑/01-绑定事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/03-jquery事件绑定与解绑/02-on绑定事件.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/03-jquery事件绑定与解绑/03-事件切换.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/04-jQuery综合案例/广告的自动显示与隐藏.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/04-jQuery综合案例/抽奖.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/05-jQuery的插件/01-jQuery对象进行方法扩展.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/05-jQuery的插件/02-jQuery全局进行方法扩展.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/JQuery高级.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/img/adv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man00.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/img/man06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/js/jquery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JQuery高级/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/filterAndlistener_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="49ed02a7-428c-4e24-8282-2c3734c184a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/AJax_Json_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/AJax&amp;Json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/src/com/king/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/src/com/king/domain/test/JacksonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/src/com/king/web/servlet/AjaxServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/src/com/king/web/servlet/FindUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/01-原生js实现ajax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/02-JQuery实现方式1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/03-JQuery实现方式2_get.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/04-JQuery实现方式3_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/WEB-INF/lib/jackson-annotations-2.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/WEB-INF/lib/jackson-core-2.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/WEB-INF/lib/jackson-databind-2.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/regist.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -98,6 +76,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -118,15 +97,20 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="javaeeadvance" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JQuery高级" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AJax&amp;Json/web/WEB-INF/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -136,11 +120,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\JavaEEAdvance\AJax&amp;Json\web\WEB-INF\lib" />
+      <recent name="D:\Project\JavaEEAdvance\AJax&amp;Json\web" />
+      <recent name="D:\Project\JavaEEAdvance\AJax&amp;Json\web\js" />
       <recent name="D:\Project\JavaEEAdvance\JQuery高级" />
       <recent name="D:\Project\JavaEEAdvance\JQuery高级\js" />
-      <recent name="D:\Project\JavaEEAdvance\JQuery基础" />
-      <recent name="D:\Project\JavaEEAdvance\JQuery基础\js" />
-      <recent name="D:\Project\JavaEEAdvance\List\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -155,19 +139,160 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.20">
+    <configuration name="JacksonTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJax&amp;Json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.king.domain.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.king.domain.test" />
+      <option name="MAIN_CLASS_NAME" value="com.king.domain.test.JacksonTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JacksonTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJax&amp;Json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.king.domain.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.king.domain.test" />
+      <option name="MAIN_CLASS_NAME" value="com.king.domain.test.JacksonTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JacksonTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJax&amp;Json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.king.domain.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.king.domain.test" />
+      <option name="MAIN_CLASS_NAME" value="com.king.domain.test.JacksonTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JacksonTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AJax&amp;Json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.king.domain.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.king.domain.test" />
+      <option name="MAIN_CLASS_NAME" value="com.king.domain.test.JacksonTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.20" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment />
-      <server-settings />
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8010/AJax_Json/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="AJax&amp;Json:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/AJax_Json" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_20_JavaEEAdvance_3" />
+      </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2590" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="AJax&amp;Json:war exploded" />
+        </option>
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 9.0.20" />
+      <item itemvalue="JUnit.JacksonTest.test1" />
+      <item itemvalue="JUnit.JacksonTest.test2" />
+      <item itemvalue="JUnit.JacksonTest.test3" />
+      <item itemvalue="JUnit.JacksonTest.test4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JacksonTest.test4" />
+        <item itemvalue="JUnit.JacksonTest.test3" />
+        <item itemvalue="JUnit.JacksonTest.test2" />
+        <item itemvalue="JUnit.JacksonTest.test1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="allServicesViewState">
@@ -201,7 +326,8 @@
       <workItem from="1564920744011" duration="3336000" />
       <workItem from="1564969499609" duration="8123000" />
       <workItem from="1564986656346" duration="790000" />
-      <workItem from="1564997487918" duration="6755000" />
+      <workItem from="1564997487918" duration="6895000" />
+      <workItem from="1565060478162" duration="8605000" />
     </task>
     <task id="LOCAL-00001" summary="列表查询1.0">
       <created>1564822763610</created>
@@ -224,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564910789941</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="JQuery学习">
+      <created>1565016630107</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1565016630107</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
