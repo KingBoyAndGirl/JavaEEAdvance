@@ -2,29 +2,45 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="AJax&amp;Json:war exploded" />
+      <artifact name="Redis:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49ed02a7-428c-4e24-8282-2c3734c184a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/AJax_Json_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/AJax&amp;Json.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/src/com/king/domain/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/src/com/king/domain/test/JacksonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/src/com/king/web/servlet/AjaxServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/src/com/king/web/servlet/FindUserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/01-原生js实现ajax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/02-JQuery实现方式1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/03-JQuery实现方式2_get.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/04-JQuery实现方式3_post.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/WEB-INF/lib/jackson-annotations-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/WEB-INF/lib/jackson-core-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/WEB-INF/lib/jackson-databind-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/js/jquery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AJax&amp;Json/web/regist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Redis_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/Redis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/com/king/dao/ProvinceDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/com/king/dao/impl/ProvinceDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/com/king/domain/Province.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/com/king/jedis/test/JedisPoolUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/com/king/jedis/test/JedisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/com/king/service/ProvinceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/com/king/service/impl/ProvinceServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/com/king/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/com/king/web/servlet/ProvinceServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/dbconfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/jedis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/commons-beanutils-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/commons-pool2-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/druid-1.1.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/jackson-annotations-2.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/jackson-core-2.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/jackson-databind-2.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/jedis-2.7.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/spring-beans-5.1.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/spring-core-5.1.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/spring-jdbc-5.1.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/spring-tx-5.1.8.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/js/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/web/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -110,7 +126,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="12" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/AJax&amp;Json/web/WEB-INF/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/redis/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -119,12 +135,15 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.king.util" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\JavaEEAdvance\redis\src" />
+      <recent name="D:\Project\JavaEEAdvance\redis\web" />
+      <recent name="D:\Project\JavaEEAdvance\redis\web\WEB-INF\lib" />
       <recent name="D:\Project\JavaEEAdvance\AJax&amp;Json\web\WEB-INF\lib" />
       <recent name="D:\Project\JavaEEAdvance\AJax&amp;Json\web" />
-      <recent name="D:\Project\JavaEEAdvance\AJax&amp;Json\web\js" />
-      <recent name="D:\Project\JavaEEAdvance\JQuery高级" />
-      <recent name="D:\Project\JavaEEAdvance\JQuery高级\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -140,83 +159,98 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.20">
-    <configuration name="JacksonTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AJax&amp;Json" />
+    <configuration name="JedisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Redis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.king.domain.test.*" />
+          <option name="PATTERN" value="com.king.jedis.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.king.domain.test" />
-      <option name="MAIN_CLASS_NAME" value="com.king.domain.test.JacksonTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="com.king.jedis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.king.jedis.test.JedisTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JacksonTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AJax&amp;Json" />
+    <configuration name="JedisTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Redis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.king.domain.test.*" />
+          <option name="PATTERN" value="com.king.jedis.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.king.domain.test" />
-      <option name="MAIN_CLASS_NAME" value="com.king.domain.test.JacksonTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JacksonTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AJax&amp;Json" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.king.domain.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.king.domain.test" />
-      <option name="MAIN_CLASS_NAME" value="com.king.domain.test.JacksonTest" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JacksonTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AJax&amp;Json" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.king.domain.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.king.domain.test" />
-      <option name="MAIN_CLASS_NAME" value="com.king.domain.test.JacksonTest" />
+      <option name="PACKAGE_NAME" value="com.king.jedis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.king.jedis.test.JedisTest" />
       <option name="METHOD_NAME" value="test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="JedisTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.king.jedis.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.king.jedis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.king.jedis.test.JedisTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.king.jedis.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.king.jedis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.king.jedis.test.JedisTest" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JedisTest.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.king.jedis.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.king.jedis.test" />
+      <option name="MAIN_CLASS_NAME" value="com.king.jedis.test.JedisTest" />
+      <option name="METHOD_NAME" value="test8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.20" ALTERNATIVE_JRE_ENABLED="false">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8010/AJax_Json/" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
       <deployment>
-        <artifact name="AJax&amp;Json:war exploded">
+        <artifact name="Redis:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/AJax_Json" />
+            <option name="CONTEXT_PATH" value="/Redis_war" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_20_JavaEEAdvance_3" />
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_20_JavaEEAdvance_4" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -224,7 +258,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="2590" />
+        <option name="DEBUG_PORT" value="12917" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -274,23 +308,25 @@
       <method v="2">
         <option name="Make" enabled="true" />
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="AJax&amp;Json:war exploded" />
+          <artifact name="Redis:war exploded" />
         </option>
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.JedisTest.test4" />
+      <item itemvalue="JUnit.JedisTest.test5" />
+      <item itemvalue="JUnit.JedisTest.test6" />
+      <item itemvalue="JUnit.JedisTest.test" />
+      <item itemvalue="JUnit.JedisTest.test8" />
       <item itemvalue="Tomcat Server.Tomcat 9.0.20" />
-      <item itemvalue="JUnit.JacksonTest.test1" />
-      <item itemvalue="JUnit.JacksonTest.test2" />
-      <item itemvalue="JUnit.JacksonTest.test3" />
-      <item itemvalue="JUnit.JacksonTest.test4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JacksonTest.test4" />
-        <item itemvalue="JUnit.JacksonTest.test3" />
-        <item itemvalue="JUnit.JacksonTest.test2" />
-        <item itemvalue="JUnit.JacksonTest.test1" />
+        <item itemvalue="JUnit.JedisTest.test8" />
+        <item itemvalue="JUnit.JedisTest.test" />
+        <item itemvalue="JUnit.JedisTest.test6" />
+        <item itemvalue="JUnit.JedisTest.test5" />
+        <item itemvalue="JUnit.JedisTest.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -327,7 +363,7 @@
       <workItem from="1564969499609" duration="8123000" />
       <workItem from="1564986656346" duration="790000" />
       <workItem from="1564997487918" duration="6895000" />
-      <workItem from="1565060478162" duration="8605000" />
+      <workItem from="1565060478162" duration="18262000" />
     </task>
     <task id="LOCAL-00001" summary="列表查询1.0">
       <created>1564822763610</created>
@@ -357,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565016630107</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ajax&amp;Json学习（校验用户名是否存在）">
+      <created>1565076052641</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1565076052641</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,6 +426,7 @@
     <MESSAGE value="综合案例1.1（增加Filter敏感过滤功能）" />
     <MESSAGE value="JQuery" />
     <MESSAGE value="JQuery学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="JQuery学习" />
+    <MESSAGE value="Ajax&amp;Json学习（校验用户名是否存在）" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajax&amp;Json学习（校验用户名是否存在）" />
   </component>
 </project>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/JQuery基础/JQuery基础.iml" filepath="$PROJECT_DIR$/JQuery基础/JQuery基础.iml" />
       <module fileurl="file://$PROJECT_DIR$/JQuery高级/JQuery高级.iml" filepath="$PROJECT_DIR$/JQuery高级/JQuery高级.iml" />
       <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Redis/Redis.iml" filepath="$PROJECT_DIR$/Redis/Redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/List/filterAndlistener.iml" filepath="$PROJECT_DIR$/List/filterAndlistener.iml" />
     </modules>
   </component>
