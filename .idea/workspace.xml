@@ -7,42 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49ed02a7-428c-4e24-8282-2c3734c184a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Redis_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/Redis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/com/king/dao/ProvinceDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/com/king/dao/impl/ProvinceDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/com/king/domain/Province.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/com/king/jedis/test/JedisPoolUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/com/king/jedis/test/JedisTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/com/king/service/ProvinceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/com/king/service/impl/ProvinceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/com/king/util/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/com/king/web/servlet/ProvinceServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/dbconfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/src/jedis.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/commons-beanutils-1.9.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/commons-pool2-2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/druid-1.1.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/jackson-annotations-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/jackson-core-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/jackson-databind-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/jedis-2.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/jstl-impl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/mysql-connector-java-8.0.16.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/spring-beans-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/spring-core-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/spring-jdbc-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/lib/spring-tx-5.1.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/js/jquery-3.4.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/web/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/ASUS.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis/Redis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/redis/Redis.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +72,19 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\my_java\maven_repository" />
+        <option name="mavenHome" value="F:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="12" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
   <component name="ProjectId" id="1OuG4rhtNAbLOq2Ri0d4dv65rLX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -132,7 +111,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -363,7 +342,14 @@
       <workItem from="1564969499609" duration="8123000" />
       <workItem from="1564986656346" duration="790000" />
       <workItem from="1564997487918" duration="6895000" />
-      <workItem from="1565060478162" duration="18262000" />
+      <workItem from="1565060478162" duration="19790000" />
+      <workItem from="1565098418897" duration="697000" />
+      <workItem from="1565101753637" duration="982000" />
+      <workItem from="1565103140299" duration="109000" />
+      <workItem from="1565103270379" duration="253000" />
+      <workItem from="1565103545520" duration="277000" />
+      <workItem from="1565104127382" duration="389000" />
+      <workItem from="1565175384230" duration="842000" />
     </task>
     <task id="LOCAL-00001" summary="列表查询1.0">
       <created>1564822763610</created>
@@ -400,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565076052641</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="redis学习（实现查询数据库和redis缓存优化）">
+      <created>1565094852128</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1565094852128</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,6 +420,7 @@
     <MESSAGE value="JQuery" />
     <MESSAGE value="JQuery学习" />
     <MESSAGE value="Ajax&amp;Json学习（校验用户名是否存在）" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajax&amp;Json学习（校验用户名是否存在）" />
+    <MESSAGE value="redis学习（实现查询数据库和redis缓存优化）" />
+    <option name="LAST_COMMIT_MESSAGE" value="redis学习（实现查询数据库和redis缓存优化）" />
   </component>
 </project>
